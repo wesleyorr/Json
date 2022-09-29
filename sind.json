@@ -1,0 +1,40 @@
+[
+  {
+    "id":"1",
+    "title":"Assessoria jurídica",
+   "description":"A assessoria jurídica popular, amplamente concebida, consiste no trabalho desenvolvido por advogados populares,
+ estudantes, educadores, militantes dos direitos humanos em geral, entre outros; de assistência, 
+orientação jurídica e/ou educação popular com movimentos sociais; com o objetivo de viabilizar um diálogo 
+sobre os principais problemas enfrentados pelo povo para a realização de direitos fundamentais para uma vida com
+ dignidade; seja por meio dos mecanismos oficiais, institucionais, jurídicos, extrajurídicos, políticos e da 
+conscientização.",
+   "image":"https://cdn.pixabay.com/photo/2021/11/25/14/40/judgment-6823792_960_720.png"
+   
+  },
+  {
+    "id":"2",
+    "title":"Area",
+  "description":"O Sidicato dos Servidores publicos tem Novidades para socieadade e seu servidores, espaço projetado para festas com picina,churrasqueira,som.
+  atendimento de  qualidade trabalhamos com organização e agendamento de horarios, Venha viver momentos de muita alegria e descontração,
+ num ambiente legal e descontraido, com várias atividades para todas as idades.
+as informações pra contato serao disponibilizadas no suporte obrigado.",
+  "image":"https://cdn.pixabay.com/photo/2019/08/11/15/48/road-trip-4399206_960_720.png"
+  
+  },
+  
+{
+  "id":"3",
+  "title":"Tratamento Odontológico",
+  "description":"Presado Servidor, confirar nosso Tratamento Odontológico em nossa sede.",
+  "image":"https://cdn.pixabay.com/photo/2021/09/06/08/59/dentist-6601202_960_720.png"
+ "
+  },
+
+{
+  "id":"4",
+  "title":"Convenio",
+  "description":"Fasto infatil"
+  
+  }
+
+]
